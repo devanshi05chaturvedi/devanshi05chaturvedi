@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @devanshi05chaturvedi
 - 👀 I’m interested in programming
-- 🌱 I’m currently learning btech 2nd year
-- 💞️ I’m looking to collaborate on c++
+- 🌱 I’m currently learning btech 3rd year
+- 💞️ I’m looking to collaborate on java
 - 📫 How to reach me ...
 
 <!---
